@@ -55,3 +55,32 @@ html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-webs
         padding-right: 15px;
     }
 }
+
+
+.author-img::after {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    color: transparent;
+    z-index: 4;
+    border-radius: 50%;
+    animation-duration: 0.5s;
+    animation-name: fadeout;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: both;
+}
+
+.author-img:hover::after {
+    animation-name: fadein;
+}
+
+@keyframes fadein {
+    from {background-color: none;}
+    to {background-color: #9998;}
+}
+@keyframes fadeout {
+    from {background-color: #9998;}
+    to {background-color: none;}
+  }
