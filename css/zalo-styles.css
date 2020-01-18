@@ -1,0 +1,57 @@
+/***** CUSTOM CODE *****/
+#colorlib-hero .flexslider .slider-text > .slider-text-inner * {
+  text-align: right;
+}
+
+.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp{
+  float: right;
+  padding-right: 2px !important;
+}
+
+html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section#colorlib-hero.js-fullheight div.flexslider.js-fullheight ul.slides li.flex-active-slide div.container-fluid div.row div.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp{
+  right: 0;
+}
+
+
+html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section#colorlib-hero.js-fullheight div.flexslider.js-fullheight ul.slides li.flex-active-slide div.container-fluid div.row div.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp div.slider-text-inner.js-fullheight div.desc p a.btn.btn-primary.btn-learn{
+  background: #AAAAAA70 !important;
+}
+
+html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section#colorlib-hero.js-fullheight div.flexslider.js-fullheight ul.slides li.flex-active-slide div.container-fluid div.row div.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp div.slider-text-inner.js-fullheight div.desc p a.btn.btn-primary.btn-learn:hover{
+background: #888888F0 !important;
+}
+
+
+html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;   
+}
+
+html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md > div{
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+@media (max-width: 30cm) {
+   
+    html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md > div{
+        width: 50%;
+    }
+}
+
+@media (max-width: 15cm) {
+    html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md{
+        display: block;
+    }
+    html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md > div{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
