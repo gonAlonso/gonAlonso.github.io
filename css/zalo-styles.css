@@ -1,28 +1,25 @@
-/***** CUSTOM CODE *****/
-#colorlib-hero .flexslider .slider-text > .slider-text-inner * {
-  text-align: right;
+#colorlib-main > section {
+    padding: 0.5cm 5px;
+    margin: 1cm 0;
 }
 
-.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp{
-  float: right;
-  padding-right: 2px !important;
+/* initial Picture text*/
+#colorlib-hero > div > ul.slides > li > div.container-fluid > div > div {
+    float: right;
+    padding-right: 2px !important;
+    width: 50%;
+    right: 0;
+}
+#colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc {
+    text-align: right;
+}
+#colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc a.btn.btn-primary.btn-learn{
+    background: #AAAAAA70 !important;
+}
+#colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc a.btn.btn-primary.btn-learn:hover{
+    background: #888888F0 !important;
 }
 
-html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section#colorlib-hero.js-fullheight div.flexslider.js-fullheight ul.slides li.flex-active-slide div.container-fluid div.row div.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp{
-  right: 0;
-}
-
-
-html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section#colorlib-hero.js-fullheight div.flexslider.js-fullheight ul.slides li.flex-active-slide div.container-fluid div.row div.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp div.slider-text-inner.js-fullheight div.desc p a.btn.btn-primary.btn-learn{
-  background: #AAAAAA70 !important;
-}
-
-html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section#colorlib-hero.js-fullheight div.flexslider.js-fullheight ul.slides li.flex-active-slide div.container-fluid div.row div.col-md-6.col-md-offset-3.col-md-pull-3.col-sm-12.col-xs-12.js-fullheight.slider-text.animated.fadeInUp div.slider-text-inner.js-fullheight div.desc p a.btn.btn-primary.btn-learn:hover{
-background: #888888F0 !important;
-}
-
-
-/*html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md{*/
 #colorlib-main > section.colorlib-services > div > div.row.row-pt-md{
     display: flex;
     flex-direction: row;
@@ -31,62 +28,27 @@ background: #888888F0 !important;
     align-items: stretch;   
 }
 
-/*html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md > div{*/
-#colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div {
-    width: 30%;
-    padding-left: 10px;
-    padding-right: 10px;
+#colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div > div > span{
+    position: inherit;
 }
-
-
 
 @media (max-width: 30cm) {
    
-    html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md > div{
+    #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc *{
+        color: rgb(211, 211, 211) !important;
+    }
+    #colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div{
         width: 50%;
     }
 }
 
 @media (max-width: 15cm) {
-    html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md{
+    #colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div{
         display: block;
     }
-    html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-services div.colorlib-narrow-content div.row.row-pt-md > div{
+    #colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div{
         width: 100%;
         padding-left: 15px;
         padding-right: 15px;
     }
 }
-
-
-.author-img::after {
-    position: absolute;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    content: '';
-    color: transparent;
-    z-index: 4;
-    border-radius: 50%;
-    animation-duration: 0.5s;
-    animation-name: fadeout;
-    animation-timing-function: ease-in-out;
-    animation-fill-mode: both;
-}
-
-.author-img:hover::after {
-    animation-name: fadein;
-}
-
-@keyframes fadein {
-    from {background-color: none;}
-    to {background-color: #9998;}
-}
-@keyframes fadeout {
-    from {background-color: #9998;}
-    to {background-color: none;}
-  }
-
-  html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body div#colorlib-page div.container-wrap div#colorlib-main section.colorlib-education div.colorlib-narrow-content div.row div.col-md-16.col-md-offset-3.col-md-pull-3.animate-box.fadeInLeft.animated {
-      margin-left: 0;
-  }
