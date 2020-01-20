@@ -13,11 +13,14 @@
 #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc {
     text-align: right;
 }
+
+/* CV Button*/
 #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc a.btn.btn-primary.btn-learn{
-    background: #AAAAAA70 !important;
+    background: rgba(122, 122, 122, 0.439) !important;
+    font-weight: 600;
 }
 #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc a.btn.btn-primary.btn-learn:hover{
-    background: #888888F0 !important;
+    background: rgba(51, 51, 51, 0.856) !important;
 }
 
 #colorlib-main > section.colorlib-services > div > div.row.row-pt-md{
@@ -34,11 +37,14 @@
 
 @media (max-width: 30cm) {
    
-    #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc *{
+    #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc > * ,
+    #colorlib-hero > div > ul.slides > li > div.container-fluid > div > div div.desc > p > a 
+    {
         color: rgb(211, 211, 211) !important;
     }
-    #colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div{
+    #colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div {
         width: 50%;
+        min-width: 8cm;
     }
 }
 
