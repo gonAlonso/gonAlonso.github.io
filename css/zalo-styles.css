@@ -43,7 +43,7 @@
         color: rgb(211, 211, 211) !important;
     }
     #colorlib-main > section.colorlib-services > div > div.row.row-pt-md > div {
-        width: 50%;
+        /*width: 50%;*/
         min-width: 8cm;
     }
 }
