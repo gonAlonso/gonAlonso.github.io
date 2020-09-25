@@ -58,3 +58,7 @@
         padding-right: 15px;
     }
 }
+
+#colorlib-main > i > section > div > div:nth-child(1) > div > h2.colorlib-heading {
+    margin-bottom: 0 !important;
+}
